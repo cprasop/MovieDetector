@@ -1,0 +1,12 @@
+Node.js(at first)
+The first reason might be Node.js is free both for itself and a huge number of tools we can use in it.
+The second reason is our team decide to work on this project in Java language instead of Python. 
+As a result, we choose Node.js, Express, and MongoDB over django and flask.
+The third reason might be Prof. Perry Donham's Piazza and Slides, which show creating web app using Webstorm and introduce Node.js in class.
+
+Flask(Now)
+The first reason is the same since flask also free.
+The second reason is we have tried Node.js and we cannot get it working properly.
+The third reason is we feel more familiar with python more that Java.
+The fourth reason is Node.js has so many tutorial, but not quite helpful for what we work on.
+The fifth reason python language is quite simple to work on.
